@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="CodeIgniter Application Test Suite" tests="5" assertions="5" failures="0" errors="0" time="0.238821">
+    <testsuite name="Welcome_test" file="E:\XAMPP\htdocs\evote\application\tests\controllers\Welcome_test.php" fullPackage="Welcome" tests="3" assertions="3" failures="0" errors="0" time="0.095987">
+      <testcase name="test_index" class="Welcome_test" file="E:\XAMPP\htdocs\evote\application\tests\controllers\Welcome_test.php" line="13" assertions="1" time="0.052893"/>
+      <testcase name="test_method_404" class="Welcome_test" file="E:\XAMPP\htdocs\evote\application\tests\controllers\Welcome_test.php" line="19" assertions="1" time="0.030527"/>
+      <testcase name="test_APPPATH" class="Welcome_test" file="E:\XAMPP\htdocs\evote\application\tests\controllers\Welcome_test.php" line="25" assertions="1" time="0.012567"/>
+    </testsuite>
+    <testsuite name="Admin_model_test" file="E:\XAMPP\htdocs\evote\application\tests\models\Admin_model_test.php" fullPackage="Admin.model" tests="2" assertions="2" failures="0" errors="0" time="0.142834">
+      <testcase name="test_tampilKandidat" class="Admin_model_test" file="E:\XAMPP\htdocs\evote\application\tests\models\Admin_model_test.php" line="11" assertions="1" time="0.033089"/>
+      <testcase name="test_tambahPemilih" class="Admin_model_test" file="E:\XAMPP\htdocs\evote\application\tests\models\Admin_model_test.php" line="39" assertions="1" time="0.109745"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

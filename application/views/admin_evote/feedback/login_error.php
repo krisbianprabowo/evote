@@ -1,0 +1,2 @@
+'info','<div class="m-alert alert alert-danger alert-dismissible fade show mt-2" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"></button><h5><i class="la la-times-circle-o" style="font-size:1.55rem"></i></i> Login Gagal !</h5>
+<br> Silahkan login kembali </div>'
