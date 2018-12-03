@@ -146,7 +146,12 @@ class Admin extends CI_Controller {
 	function test(){
 		$this->load->view('dashboard/test');
 	}
+
 	function alpha_dash_space($str) {
 	    return ( ! preg_match("/^([A-zÀ-ÿ_ ])+$/i", $str)) ? FALSE : TRUE;
 	} 
+
+	function notlikethis(){
+		
+	}
 }
